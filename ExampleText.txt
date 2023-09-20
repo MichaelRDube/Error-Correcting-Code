@@ -4,4 +4,4 @@ and yet more
 Well, this is new
 Modifying this too!
 
-creating a conflict on master
+conflict resolved
